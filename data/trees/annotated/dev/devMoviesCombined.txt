@@ -1,0 +1,984 @@
+2 male is a photographer female is a model both of work for the same agency.
+0 male
+1 female
+
+0 male has fallen in love with female and thinks that female is also in love with male.
+0 male
+0 fallen
+2 thinks
+1 female
+
+2 But female only takes male for a friend.
+0 male
+2 takes
+1 female
+
+2 female gets engaged to male and the marriage is to take place soon.
+2 gets
+0 male
+1 female
+
+0 male still believes that female loves male and male also starts making preparation for male marriage with female.
+2 starts
+0 male
+2 loves
+1 female
+2 believes
+
+1 female must now take appropriate steps to stop male obsession with female before the matter gets out of hand.
+0 male
+2 steps
+2 gets
+1 female
+
+1 However female realizes the person whom female is marrying does not love female and the situation turns such that female realizes male love for female and the film ends on happy note.
+2 ends
+1 marrying
+2 does
+2 realizes
+1 female
+2 turns
+0 male
+2 happy
+
+1 The film opens in noun or the world of the gods a Hindu heaven located above the clouds where we witness the birth of female as the daughter of male the elephant headed god of good beginnings and male two wives female and female.
+2 good
+1 daughter
+2 opens
+1 female
+0 male
+0 witness
+
+0 A key role is played by the immortal sage male a devotee of male and a cosmic busybody who regularly intervenes to advance the film two parallel plots which concern both human beings and gods.
+0 plots
+0 male
+0 intervenes
+
+1 We soon meet the maiden female greatest earthly devotee leading a group of women in an aarti to the goddess.
+2 leading
+1 female
+1 women
+
+2 This first song noun exemplifies through its camerawork the experience of darshan of seeing and being seen by a deity in the reciprocal act of visual communion that is central to Hindu worship.
+
+0 Through the Mother grace female soon meets falls in love with and manages to marry the handsome lad male youngest of seven brothers in a prosperous farmer family an artistic flute playing type who can also render a zippy bhajan on request.
+2 meets
+0 prosperous
+0 lad
+0 marry
+2 falls
+2 manages
+1 female
+1 mother
+0 male
+0 handsome
+
+2 Alas with the boy come the in-laws and two of male six sisters-in-law female and female are jealous shrews who have in for male and female from the beginning.
+0 jealous
+0 male
+1 female
+
+1 To make matters worse male stirs up the jealousy of three senior goddesses female female and female - the wives of the Hindu trinity of male male and male - against the upstart goddess female decide to examine female perseverance by making life miserable for female chief devotee.
+0 male
+1 female
+
+0 After a fight with his relatives male leaves home to seek his fortune narrowly escaping a watery grave through his female devotion to female.
+2 leaves
+0 his
+0 male
+1 female
+
+0 Nevertheless the divine ladies convince his family that he is indeed dead adding the stigma of widowhood to female other woes.
+0 his
+1 female
+2 dead
+0 he
+
+1 female sisters-in-law treat female like a slave beat and starve female and a local rogue attempts to rape female female taking a human form rescues female several times.
+2 attempts
+2 local
+2 rape
+1 female
+2 rescues
+
+1 Eventually female is driven to attempt suicide but is stopped by male who tells female about the sixteen Fridays fast in honour of female which can grant any wish.
+0 male
+2 tells
+1 female
+
+0 female completes it with great difficulty and more divine assistance and just in the nick of time : for the now prosperous male stricken with amnesia by the angry goddesses and living in a distant place has fallen in love with a rich merchant daughter.
+2 great
+1 daughter
+2 rich
+0 prosperous
+0 angry
+0 distant
+1 female
+0 male
+0 fallen
+2 completes
+
+1 Through female grace female gets female memory back and returns home laden with wealth.
+2 returns
+2 gets
+1 female
+
+1 When female discovers the awful treatment given to female wife female builds a palatial home for the two of complete with an in-house temple to the Mother.
+1 mother
+2 discovers
+1 female
+1 wife
+
+1 female plans a grand ceremony of completion and invites female in-laws.
+2 invites
+2 plans
+1 female
+1 grand
+
+1 But the nasty celestials and sadistic sisters-in-law make a last-ditch effort to ruin female by squeezing lime juice into one of the dishes.
+1 female
+
+2 All hell breaks loose - civil war between goddesses - before peace is finally restored on earth as it is in heaven and a new deity is triumphantly welcomed to the pantheon.
+2 new
+2 breaks
+
+0 In the opening scene male is shown badly wounded with bullets.
+0 wounded
+0 male
+
+0 male crawls to a phone booth and calls up for an ambulance to save male life.
+0 male
+2 calls
+
+0 male is a careless boy who lives with male elder brother male.
+2 lives
+0 male
+0 careless
+0 brother
+2 elder
+
+0 male is a lawyer and works for male who is a criminal.
+0 criminal
+0 male
+2 works
+
+0 male has an order to forcefully acquire a land which belongs to a freedom fighter male.
+2 belongs
+0 male
+
+0 male wants to build up a children park at that site.
+2 wants
+0 male
+
+0 male somehow gets into the picture and male asks male to go there and warn male to leave the land immediately.
+0 male
+2 gets
+2 asks
+
+0 male is suffering from brain tumor and while throwing things out of male house male falls on the floor.
+0 male
+2 falls
+
+0 male takes male to the hospital.
+0 male
+2 takes
+
+0 When male gains consciousness male realizes that male had been doing wrong and changes male mind.
+2 wrong
+0 male
+2 changes
+2 gains
+2 realizes
+
+0 male realizes male duties and now wants to save male land at any cost from male.
+2 wants
+0 male
+2 realizes
+
+0 male on realizing this takes the ownership to capture the land in male own hands.
+0 male
+2 takes
+2 hands
+
+0 male gets male killed in the process.
+0 male
+2 gets
+
+0 male has handed over the ownership of land to male in male deed.
+0 male
+
+0 male asks male to hand over the deed papers in ransom for male brother male.
+0 male
+0 brother
+2 asks
+
+0 male however tries to get the papers back but is killed by male.
+2 tries
+0 male
+
+0 Now male has everything to go against male and not let male plans succeed.
+0 male
+2 plans
+
+0 But male is clever enough to kidnap male love female.
+0 male
+1 female
+
+0 male rescues female and kills male not before male is shot with four bullets thus bringing the story up to the point of the film opening scene.
+0 male
+2 kills
+2 rescues
+1 female
+
+0 The ambulance arrives and in the hospital male is saved along with the removal of male brain tumor.
+2 arrives
+0 male
+
+0 male gets the children park built in male land as per male last wish.
+0 male
+2 gets
+
+2 female is a poor woman raising female two beloved sons male Singh the elder and male Singh the younger.
+2 poor
+2 younger
+1 female
+2 elder
+2 beloved
+0 male
+
+0 When Munim of an aging male comes to talk to female male and male learn that their father is dead.
+2 dead
+0 male
+2 father
+1 female
+2 comes
+
+0 female reveals that their father was the male son who had married female against the father wishes.
+2 reveals
+2 married
+2 father
+0 son
+0 wishes
+1 female
+0 male
+
+0 male a relative of male killed female husband to prevent male female or sons from inheriting the male estate.
+0 male
+0 husband
+1 female
+
+0 male and male learn from male that the dying male wants to give male estate to male grandchildren before dying as it is birthright.
+2 wants
+0 male
+
+0 male kills male revealing to male that male did kill male son all those years ago and when male learns of male plans to sign over the estate to male and male.
+2 plans
+0 male
+2 learns
+2 kills
+0 son
+
+0 male then brutally murders both male and male by ambushing with the help of male brothers-in-law male and Shamsher in front of female.
+0 murders
+0 male
+1 female
+
+1 female can not accept that female sons have died and prays to Goddess female to bring them back.
+1 female
+
+1 Miraculously female prayers are heard and female sons are reborn but into different families with no knowledge of their past lives - female is unaware of this miracle.
+0 different
+2 lives
+1 unaware
+1 female
+
+2 For 20 years female keeps persuading the people of female village that male and male will come back.
+0 male
+1 female
+2 keeps
+
+0 male and family mockingly give male garlands to put on the picture of male and male.
+0 male
+
+1 female vows to place the garlands over their dead bodies.
+2 dead
+1 female
+2 vows
+
+0 male is reincarnated as male.
+0 male
+
+0 male falls in love with the wealthy female but neither knows that female is to marry male son male.
+0 son
+2 knows
+0 marry
+2 falls
+1 female
+2 wealthy
+0 male
+
+0 male is reincarnated as male.
+0 male
+
+0 male soon works for male female father and male partner in male illegal arms trading business.
+0 male
+2 father
+1 female
+2 works
+
+0 male and male still have nightmares about their deaths in previous lives.
+0 male
+2 lives
+
+0 On learning about male male attempts to kill male but ends up burning the farm of male Uncle.
+2 attempts
+0 male
+0 uncle
+2 ends
+
+0 At female and male engagement party male arrives and attacks male.
+2 attacks
+0 male
+2 arrives
+1 female
+
+0 male is sent to kill male and the two start fighting.
+0 male
+
+1 female is given a sign of this when the photo of female sons falls.
+1 female
+2 falls
+
+1 female rushes to the temple and prays to Goddess female.
+2 rushes
+1 female
+
+0 male and male suddenly stop fighting after a bolt of lightning strikes them.
+0 male
+2 strikes
+
+0 male tries to shoot male but male stops male whilst shouting for male to run.
+2 tries
+0 male
+2 stops
+
+0 This is something that male had said to male in previous births when male was being attacked by male.
+0 male
+
+0 male is sent to prison while male escapes.
+0 male
+2 escapes
+
+0 male is confused about the incident mostly because male had dreamt of somebody saying those exact words to male.
+0 male
+
+0 female is forcibly taken to male house to marry male.
+0 marry
+0 male
+1 female
+
+2 female writes to male begging male to come and rescue female.
+2 writes
+0 male
+1 female
+
+0 male and male friend male travel to save female.
+0 male
+1 female
+
+0 Everybody who sees male is stunned and calls male male.
+0 male
+2 sees
+2 calls
+
+0 male finally remembers male past life and reunites with female where male gets to know about male brother male who is now male.
+0 male
+0 brother
+1 female
+2 reunites
+2 gets
+2 remembers
+
+0 male saves male and explains the whole situation.
+2 saves
+0 male
+2 explains
+
+1 male refuses to believe but when male brothers-in-law attack female female remembers female previous life.
+2 refuses
+0 male
+2 remembers
+1 female
+
+0 male hears about male and male return but refuses to believe it so male brothers-in-law attempt to bring them before male.
+2 refuses
+0 male
+2 hears
+
+0 In the process they are killed by male and male in a similar way as they killed male and male and female places the garlands over their dead bodies.
+2 dead
+0 male
+2 similar
+1 places
+1 female
+
+1 At the village temple of Goddess female rituals are held for female and male wedding.
+0 male
+1 female
+
+0 male and male frighten male by convincing male that they are back.
+0 male
+
+0 Soon male and male have fallout after which a fearful male tells female to run away with male.
+0 fearful
+0 male
+2 tells
+1 female
+
+0 female meets male but just as everybody is helping them male and male arrive making them realize that was a ruse.
+2 meets
+0 male
+1 female
+
+0 male succeeds in creating a diversion letting male and female escape.
+0 male
+1 female
+0 succeeds
+
+0 male kills male upon which male kills male in a fit of rage.
+0 male
+2 kills
+
+0 After all male henchmen are killed male attempts to kill male and male.
+2 attempts
+0 male
+
+0 They overpower male.
+0 male
+
+1 male runs to female and begs her for forgiveness.
+2 runs
+0 male
+1 her
+2 begs
+1 female
+
+1 However she orders her sons to kill male for revenge.
+0 male
+1 she
+1 her
+
+1 They do so and female places the garland over female dead body fulfilling the promises she made to female.
+2 dead
+2 promises
+1 places
+1 female
+1 she
+
+1 Later at Goddess female temple male marries female and male marries male love female after which female places the bangles her sons gave her on her daughters-in-law wrists as she promised male and male 20 years ago and the family is finally reunited.
+1 places
+1 her
+1 she
+1 female
+0 male
+2 marries
+
+0 male is the local criminal don in his part of the town where he lives with his mother.
+0 his
+0 male
+2 lives
+1 mother
+0 criminal
+2 local
+0 he
+
+0 His mother wants him to marry and settle down and give up his criminal activities.
+2 wants
+0 his
+0 marry
+1 mother
+0 criminal
+0 him
+
+2 male meets with female and both are attracted to each other and soon get married.
+2 meets
+0 male
+1 female
+2 married
+
+1 female is appalled at the way male leads life with everyone around petrified of female.
+2 leads
+0 male
+1 female
+
+0 female asks male to give up criminal activities and get a job.
+0 criminal
+0 male
+2 asks
+1 female
+
+0 male agrees but the question is will male keep to female promise or will male just pretend to be honest in front of female.
+0 pretend
+0 male
+2 agrees
+1 female
+0 honest
+
+0 And on the other hand is male a dacoit with a good heart.
+0 dacoit
+0 male
+2 good
+
+0 Both male and male are rivals.
+0 male
+
+0 When male hears of male attempting to go straight male decides to move in on male territory with results that will change lives forever.
+2 lives
+0 male
+2 decides
+2 hears
+
+0 male lives a poor lifestyle along with male widowed mom in a village and has a sweetheart in female.
+2 poor
+2 widowed
+0 male
+2 lives
+1 female
+
+0 male is a trouble maker and makes life difficult for the Panchayat Chair male who also happens to be female father so much so that male hires male to kill male.
+2 happens
+2 hires
+2 father
+1 female
+0 male
+2 makes
+
+0 After male passing male enters noun where male gets to meet with Devraj male and then male.
+2 enters
+0 male
+2 gets
+
+0 male incites male to go on a strike as well as has male male consider going on a vacation along with male assistant male.
+2 incites
+0 assistant
+0 male
+
+0 As a result male and male end up in modern-day Bombay as ordinary human beings and people stop dying while male male is given back male life.
+0 ordinary
+0 male
+
+0 But not for long for soon male will be called upon to provide bail for a jailed male and male who will soon return to noun and take male along too.
+0 male
+2 long
+
+0 Dr male is a renowned doctor who has been successful in all the operations in Dr career and has skillfully operated many delicate surgeries.
+2 successful
+2 renowned
+0 male
+
+2 Dr lives with Dr wife female and brother male.
+0 male
+2 lives
+0 brother
+1 female
+1 wife
+
+2 male is in love with female the daughter of male.
+0 male
+1 daughter
+1 female
+
+0 At the same time male the brother of male has a longing for female.
+0 male
+0 brother
+1 female
+
+0 The miscreant male with male mob severely assaults male when male resists male advances towards female.
+0 male
+0 assaults
+1 female
+2 resists
+
+0 A corrupt minister male wants to execute a disastrous scheme called noun Power Project at the expense of the lives and property of the tribes living at the project site.
+0 corrupt
+2 wants
+0 male
+2 lives
+1 disastrous
+
+0 A coaxes and later threatens male the concerned engineer to sign A approval for the project whereas male refuses to endorse such a scheme.
+2 refuses
+2 threatens
+1 concerned
+0 male
+
+0 On the other hand male devises an evil plot against male to wipe the latter out eventually leading to male brother male winning female.
+2 leading
+0 brother
+2 evil
+1 female
+0 male
+0 devises
+
+0 male is framed for murdering a woman and Inspector male a subordinate of male arrests male and puts male behind the bars.
+0 subordinate
+0 male
+2 puts
+0 arrests
+
+0 Woefully male dies in jail presumably by committing suicide.
+2 dies
+0 male
+
+2 The agony of male death claims the life of female as well.
+2 claims
+0 male
+1 female
+
+0 With the death of A beloved wife and brother Dr male becomes desolate and alcoholic.
+0 male
+0 alcoholic
+0 brother
+2 beloved
+1 wife
+
+1 female marries male without any regret for the death of female former lover.
+0 male
+2 marries
+1 female
+
+0 Now that male is dead male conspires with male for the implementation of the power project.
+0 male
+0 conspires
+2 dead
+
+2 However end up becoming enemy of each other.
+
+0 male plans to kill male.
+0 male
+2 plans
+
+0 male henchmen attack male who is critically injured.
+2 injured
+0 male
+
+0 male is admitted to hospital where Dr male is to conduct Dr operation.
+0 male
+
+0 female fears that Dr male may kill male to take vengeance for the death of male brother.
+0 male
+2 fears
+0 brother
+1 female
+
+0 female refuses to sign the operation papers but Dr male who considers male moral duty to save the life of a patient regardless of being male friend or foe conducts the operation.
+2 refuses
+0 male
+2 considers
+1 female
+
+0 male expertise pays off as male is saved. male goes out to convey the news to female but returns to find male dead beyond all male expectations.
+2 goes
+2 pays
+2 dead
+2 returns
+1 female
+0 male
+
+2 female files an FIR against Dr male who is arrested and imprisoned.
+2 files
+0 male
+1 female
+
+0 In jail Dr male meets an inmate bearing the number 92 Prof male a scientist of male Atomic Energy.
+2 meets
+0 male
+
+0 Dr has been jailed after a false allegation of revealing confidential nuclear formulae to foreign nations tells Dr male that male brother male did not commit suicide but was tortured to death by Inspector male which witnessed.
+0 nuclear
+0 male
+2 tells
+0 brother
+
+0 Dr male now realises that past misfortune was a result of the evil motives of some antagonists of the nation. Dr becomes the Angel of Death who will put all those malefactors to death.
+2 realises
+0 male
+0 angel
+2 evil
+
+0 Dr male breaks away from jail and nabs Insp male who says that male planned the murder of male using clutches over police.
+0 clutches
+2 says
+2 breaks
+0 murder
+0 male
+0 nabs
+
+0 He also says that male was killed by Dr male by cutting off the oxygen supply after male bribed to kill male.
+0 male
+2 says
+0 he
+
+0 Dr male kicks male off the building to death.
+2 kicks
+0 male
+
+0 Meanwhile male has allied with another influential politician male a k a TT or Terror of Terrors who keeps up an honest appearance among the masses but works for Dr own interests at the cost of the welfare of the public.
+0 influential
+0 male
+2 works
+0 honest
+2 keeps
+
+0 Dr male corners Dr male at the roof of male house who confesses of killing male by accepting bribe from male.
+0 male
+2 confesses
+
+0 Dr male captures a video of Dr male revelation before putting to death.
+0 captures
+0 male
+
+0 Soon Dr male kills male.
+0 male
+2 kills
+
+0 One day male addresses a gathering when Dr male publicly puts a video on view in which male signs an agreement with a foreign syndicate related to noun Power Project.
+0 male
+2 addresses
+2 puts
+0 signs
+
+0 Later male would make fool the public with false promises of power distribution.
+2 promises
+0 male
+
+0 The enraged crowd chases male through the streets when male arrives for rescue.
+0 enraged
+2 chases
+0 male
+2 arrives
+
+0 male fires at Dr male who burns male and male to death. The movie ends after Dr male succumbs to injuries.
+2 fires
+0 male
+2 burns
+2 ends
+0 succumbs
+
+0 male is looking for a job.
+0 male
+
+0 male mistakenly thinks that male is the son of a wealthy man.
+2 wealthy
+0 male
+2 thinks
+0 son
+
+0 male wants male to marry male daughter female.
+2 wants
+0 marry
+0 male
+1 daughter
+1 female
+
+0 By the time male learns the truth male and female have fallen in love.
+0 male
+0 fallen
+2 learns
+1 female
+
+0 They marry but go through a lot of troubles. male builds a small empire by hard labor.
+2 small
+0 marry
+0 male
+0 hard
+
+0 female gives birth to son male.
+0 son
+0 male
+1 female
+2 gives
+
+1 female passes away after one year.
+2 passes
+1 female
+
+0 male always regrets that male could not give much time to female.
+0 male
+1 female
+
+0 male grows up and the same story of male-female is about to repeat between male and female.
+0 male
+2 grows
+1 female
+
+0 male is a wealthy architect living a comfortable lifestyle with male three children male male and female.
+0 male
+1 female
+2 wealthy
+
+0 Also living with them is their butler male.
+0 male
+
+2 Because have no mother male has arranged for many governesses or teachers to take care of but the children always drive any of these governesses and teachers away.
+0 male
+1 mother
+
+0 male soon decides to send his children to boarding school but changes his mind when male reminds that when male threw younger brother out of the house never came back again.
+2 younger
+0 his
+2 decides
+0 brother
+2 reminds
+0 male
+2 changes
+
+0 male however arranges for another governess.
+0 male
+2 arranges
+
+0 Meanwhile a con man named male and friend male have just robbed a bank and are on the run from police.
+0 male
+
+0 male comes across the beautiful female who is to be the governess of the male children.
+2 beautiful
+0 male
+1 female
+2 comes
+
+2 male tries to woo female with no success.
+2 tries
+0 male
+1 female
+
+0 male and male follow female to the male household male now believes male has met a rich girl and believes male has hit the jackpot.
+1 girl
+0 male
+2 rich
+1 female
+2 believes
+
+1 Although the children initially try and drive female away come to accept as an older sister.
+2 sister
+1 female
+
+2 male continues to woo female and eventually returns feelings.
+2 continues
+0 male
+2 returns
+1 female
+
+0 With male permission the two get married.
+0 male
+2 married
+
+0 On the wedding day male learns that male is a criminal : stole the wedding rings and only married female to gain male wealth.
+0 male
+2 married
+1 rings
+2 learns
+1 female
+0 criminal
+
+2 male is sent to prison and female decides to leave the house.
+0 male
+2 decides
+1 female
+
+0 male is soon killed in a car accident.
+0 male
+
+0 The children are placed under the care of their cruel maternal uncles who only have interest in male fortune.
+0 cruel
+0 male
+1 maternal
+
+1 The children are in a terrible situation - the court decides that need to be separated.
+1 separated
+2 decides
+
+0 Just as the magistrate intends to sign adoption papers a young man comes in and claims that male is male younger brother - the man is none other than male.
+2 younger
+2 young
+0 brother
+0 intends
+2 claims
+0 male
+2 comes
+
+0 The magistrate believes that the man is truly male brother so refuses to sign the adoption papers however male sets a date for a hearing in which the appropriate guardian shall be granted custody of the male children.
+2 refuses
+2 sets
+0 male
+0 brother
+2 believes
+
+0 The children are at first unhappy to have male back in lives - however male and male explain that male is the only one who can help the children.
+0 male
+2 lives
+1 unhappy
+
+0 The children warm up to new male and female soon returns to the house and is angry to see male again as female believes he is attempting to rob the children.
+0 angry
+2 believes
+2 returns
+1 female
+2 new
+0 male
+0 he
+
+0 Problems arise when another man enters the house and says that is male.
+2 enters
+2 says
+0 male
+
+0 The uncles are now confused as this man looks and acts more like the real male.
+2 real
+2 acts
+0 male
+2 looks
+
+0 male makes a deal with - if prove to the magistrate that male is the real male shall only take 25 % of the share.
+2 real
+0 male
+2 makes
+
+0 The uncles agree but soon learn that male tricked and that the real male met is none other than a fellow conman of male.
+2 real
+0 male
+2 fellow
+
+2 The relatives are driven away.
+
+2 female reconciles with male when learns real intentions.
+2 real
+0 male
+2 reconciles
+1 female
+2 learns
+
+2 female and male start to look after the children.
+0 male
+1 female
+
+0 However happiness is short-lived when the relatives return and expose male who is sent back to jail.
+0 male
+
+2 Meanwhile the children are shocked to learn that father was killed by relatives all for money.
+2 father
+
+0 The children lives are again in danger until male breaks out of prison and kills the relatives in the same way that killed male.
+2 breaks
+0 male
+2 lives
+2 kills
+
+2 male and female get married and are given custody of the three children.
+0 male
+1 female
+2 married
+
+0 However are still on the lookout for the real male.
+2 real
+0 male
+
