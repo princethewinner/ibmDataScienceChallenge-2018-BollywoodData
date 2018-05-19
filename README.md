@@ -1,3 +1,5 @@
+# ibmDataScienceChallenge-2018-BollywoodData
+
 Step1: (Data Collection)
 Download Bollywood-Dataset from
     https://github.com/BollywoodData/Bollywood-Data
@@ -26,18 +28,18 @@ Step6: (Data Processing)
 
 Step7: (Data annotation)
     Use human perception to annotate the whole plot as male/female/neutral. male->0, female->1, neutral->2
-    Use the following format for annotation.
-    <annotations> <movie_description>
-    0 This is a male oriented movie.
-    1 This is a female oriented movie.
-    3 This is a gender neutral movie.
+    Use the following format for annotation.<br/>
+    <annotations> <movie_description><br/>
+    0 This is a male oriented movie.<br/>
+    1 This is a female oriented movie.<br/>
+    2 This is a gender neutral movie.<br/>
 
 Step8: (Data annotation)
     Pass each movie description file resulted in step7 to the 'annotFileFull.py' for annotation of each know words based on the information available in adjverb file and synonyms file.
     ##ToDo : This script only annotates the adjectives and verbs from adjverb files and nouns from synonyms files. This script can be extended to annotate gender neutral words. This will improve the information content of the trees generated in the later steps.
 
 Step9: (Data annotation)
-    Based on the annotation of full movie description (Output of Step7), do a stratify sampling of movies to create test and validation sets. (Creation of test set will be described later).
+    Based on the annotation of full movie description (Output of Step7), do a stratify sampling of movies to create train and validation sets. (Creation of test set will be described later).
 
 Step10: (Data annotation)
     $var=['Train', 'Validation']
